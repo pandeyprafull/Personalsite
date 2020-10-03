@@ -74,6 +74,10 @@ header .social-nav {
   background: url('./images/globe.svg') no-repeat 50% 50%;
   background-color: #77A8B1;
 }
+.social-nav .sn-linkedin{
+  background: url('./images/linkedin.svg') no-repeat 50% 50%;
+  background-color: #77A8B1;
+}
 
 section.about {
   padding: 4em 2em 2em 2em;
